@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\G3Fall\\WindowsOS\\ProducerAndConsumer\\ProducerAndConsumer.csproj": {}
+    "D:\\G3Fall\\WindowsOS\\WindowsOSHomework\\ProducerAndConsumer\\ProducerAndConsumer.csproj": {}
   },
   "projects": {
-    "D:\\G3Fall\\WindowsOS\\ProducerAndConsumer\\ProducerAndConsumer.csproj": {
+    "D:\\G3Fall\\WindowsOS\\WindowsOSHomework\\ProducerAndConsumer\\ProducerAndConsumer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\G3Fall\\WindowsOS\\ProducerAndConsumer\\ProducerAndConsumer.csproj",
+        "projectUniqueName": "D:\\G3Fall\\WindowsOS\\WindowsOSHomework\\ProducerAndConsumer\\ProducerAndConsumer.csproj",
         "projectName": "ProducerAndConsumer",
-        "projectPath": "D:\\G3Fall\\WindowsOS\\ProducerAndConsumer\\ProducerAndConsumer.csproj",
+        "projectPath": "D:\\G3Fall\\WindowsOS\\WindowsOSHomework\\ProducerAndConsumer\\ProducerAndConsumer.csproj",
         "packagesPath": "C:\\Users\\wzy\\.nuget\\packages\\",
-        "outputPath": "D:\\G3Fall\\WindowsOS\\ProducerAndConsumer\\obj\\",
+        "outputPath": "D:\\G3Fall\\WindowsOS\\WindowsOSHomework\\ProducerAndConsumer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "F:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

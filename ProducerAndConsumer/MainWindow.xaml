@@ -1,12 +1,22 @@
-﻿<Window x:Class="ProducerAndConsumer.MainWindow"
+<Window x:Class="ProducerAndConsumer.MainWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:ProducerAndConsumer"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="MainWindow" Height="720" Width="960">
     <Grid>
+        <Label Content="Consumer Number
+               " HorizontalAlignment="Left" Margin="703,153,0,0" VerticalAlignment="Top" Height="29" Width="181" FontSize="18"/>
+        <Label Content="Producer Number" HorizontalAlignment="Left" Margin="62,153,0,0" VerticalAlignment="Top" Height="29" Width="181" FontSize="18"/>
+        <TextBox x:Name="producer" HorizontalAlignment="Left" Margin="62,206,0,0" Text="  " TextWrapping="Wrap" VerticalAlignment="Top" Width="181" Height="32" FontSize="18"/>
+        <TextBox x:Name="consumer" HorizontalAlignment="Left" Margin="703,206,0,0" Text="  " TextWrapping="Wrap" VerticalAlignment="Top" Width="181" Height="32" FontSize="18"/>
+        <Label Content="Buffer Size" HorizontalAlignment="Center" Margin="0,153,0,0" VerticalAlignment="Top" Height="29" Width="181" FontSize="18"/>
+        <Label Content="Producer &amp; Consumer problem" HorizontalAlignment="Left" Margin="236,77,0,0" VerticalAlignment="Top" FontSize="28"/>
+        <TextBox x:Name="bufferSize" HorizontalAlignment="Center" Margin="0,206,0,0" Text="  " TextWrapping="Wrap" VerticalAlignment="Top" Width="181" Height="32" FontSize="18"/>
+        <TextBox x:Name="Showlist" HorizontalAlignment="Left" Margin="62,316,0,0" Text="   " TextWrapping="Wrap" VerticalAlignment="Top" Width="822" Height="379"/>
+        <Button x:Name="start" Content="Start" HorizontalAlignment="Center" Margin="0,267,0,0" VerticalAlignment="Top" Height="29" Width="181" Click="start_Click"/>
 
     </Grid>
 </Window>
