@@ -1,0 +1,15 @@
+D:\G3Fall\WindowsOS\HomeworkChapter4\bin\Debug\HomeworkChapter4.exe.config
+D:\G3Fall\WindowsOS\HomeworkChapter4\bin\Debug\HomeworkChapter4.exe
+D:\G3Fall\WindowsOS\HomeworkChapter4\bin\Debug\HomeworkChapter4.pdb
+D:\G3Fall\WindowsOS\HomeworkChapter4\obj\Debug\HomeworkChapter4.csprojAssemblyReference.cache
+D:\G3Fall\WindowsOS\HomeworkChapter4\obj\Debug\MainWindow.g.cs
+D:\G3Fall\WindowsOS\HomeworkChapter4\obj\Debug\App.g.cs
+D:\G3Fall\WindowsOS\HomeworkChapter4\obj\Debug\HomeworkChapter4_MarkupCompile.cache
+D:\G3Fall\WindowsOS\HomeworkChapter4\obj\Debug\HomeworkChapter4_MarkupCompile.lref
+D:\G3Fall\WindowsOS\HomeworkChapter4\obj\Debug\MainWindow.baml
+D:\G3Fall\WindowsOS\HomeworkChapter4\obj\Debug\HomeworkChapter4.g.resources
+D:\G3Fall\WindowsOS\HomeworkChapter4\obj\Debug\HomeworkChapter4.Properties.Resources.resources
+D:\G3Fall\WindowsOS\HomeworkChapter4\obj\Debug\HomeworkChapter4.csproj.GenerateResource.cache
+D:\G3Fall\WindowsOS\HomeworkChapter4\obj\Debug\HomeworkChapter4.csproj.CoreCompileInputs.cache
+D:\G3Fall\WindowsOS\HomeworkChapter4\obj\Debug\HomeworkChapter4.exe
+D:\G3Fall\WindowsOS\HomeworkChapter4\obj\Debug\HomeworkChapter4.pdb
